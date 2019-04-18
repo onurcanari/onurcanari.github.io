@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: yazılar - onurcanari
+description: okur, 
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
@@ -9,17 +9,17 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://onurcanari.github.io'
+google_analytics: 'UA-138626202-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://onurcanari.github.io'
+author:         'onurcanari'
+authorTwitter:  'onurcanari'
 
-permalink:       /:year/:title/
+permalink:       /:year/:month/:categories/:title/
 
 defaults:
     -
