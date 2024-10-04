@@ -39,6 +39,12 @@ params:
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowReadingTime: true
+  ShowRssButtonInMenu: true
+  ShowToc: true
+  TocOpen: true
+
 menu:
   main:
     - identifier: Posts
@@ -47,12 +53,14 @@ menu:
       weight: 10
     - identifier: Projects
       name: Projects
+      pre: <i class="fa fa-heart"></i>
       url: /projects/
       weight: 20
-    - identifier: About
-      name: About
-      url: /about/
-      weight: 30
+    - identifier: search
+      name: 🔍
+      url: /search/
+      weight: 100
+
 assets:
   favicon16x16: /favicon16x16.png
   favicon32x32: /favicon32x32.png
@@ -60,6 +68,6 @@ assets:
   favicon: /favicon.ico
 outputs:
   home:
-    - html
-    - rss
-    - json
+    - HTML
+    - RSS
+    - JSON
