@@ -2,8 +2,8 @@
 title: "Stairway Threshold"
 date: 2024-10-01
 draft: false
-cover:
-  image: images/stairway_threshold.gif
+cover: "images/stairway_threshold.gif"
+thumbnail: "images/stairway_threshold.gif"
 ---
 
 # Why?

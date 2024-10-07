@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Onurcan Ari"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+dateFormat = "2 January 2006"
+
+# mainSections = ["section1", "section2"]
+# description = "My awesome website"
+
+[params.author]
+name = "Onurcan Ari"
+image = "images/profile-photo.webp"
+headline = "I'm only human"
+bio = "Software Developer"
+links = [
+  { email = "mailto:arionurcan@gmail.com" },
+  { linkedin = "https://linkedin.com/in/onurcanari/" },
+]
