@@ -1,9 +1,9 @@
 ---
-title: "Stairway Threshold"
+title: "Inside the 5-Minute Horror - Stairway Threshold"
 date: 2024-10-01
 draft: false
-cover: "images/stairway_threshold.gif"
-thumbnail: "images/stairway_threshold.gif"
+categories: ["game"]
+tags: ["horror", "indie", "itch.io"]
 ---
 
 # Why?
@@ -14,7 +14,7 @@ I've always wondered how games are made. Even in middle school, I tried a few ti
 
 > "In Stairway Threshold, you find yourself trapped in the eerie exit stairwell of an abandoned high-rise. This atmospheric horror game blends a modern retro aesthetic with the unsettling ambiance of VHS horror films. Climb through flickering lights and shadowy corners as you ascend towards the building's dark secrets. Will you find your way to freedom, or will the stairwell's sinister grip claim another victim?"
 
-It's 5 minute thriller horror game. (Yeah, I know 😄)
+It's a 5 minute thriller horror game. (Yeah, I know 😄)
 
 - Explain floor numbers.
 - Explain Ending
