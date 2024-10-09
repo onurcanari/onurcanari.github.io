@@ -20,4 +20,5 @@ bio = "Software Developer"
 links = [
   { email = "mailto:arionurcan@gmail.com" },
   { linkedin = "https://linkedin.com/in/onurcanari/" },
+  { github = "https://github.com/onurcanari/" },
 ]
