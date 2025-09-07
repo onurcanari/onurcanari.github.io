@@ -1,6 +1,6 @@
 ---
 title: "Dombily - Fitness Tracking & Analytics"
-date: 2024-12-19
+date: 2025-09-05
 draft: false
 topics: ["Web App", "Fitness", "Analytics", "Health", "Tracking", "Dashboard"]
 summary: "A comprehensive fitness tracking platform with detailed analytics, progress visualization, and smart insights for modern workout tracking."
